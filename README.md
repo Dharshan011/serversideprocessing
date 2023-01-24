@@ -160,7 +160,8 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT:
-![e7](https://user-images.githubusercontent.com/113497491/213929827-a83bcee1-153e-472d-a643-2f60dc4032e0.png)
+
+![e](https://user-images.githubusercontent.com/113497491/214290954-91839b44-7757-43ed-886e-29660434b0d9.png)
 
 
 
