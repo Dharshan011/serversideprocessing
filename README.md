@@ -23,7 +23,7 @@ Mention the path of the website in urls.
 
 ### Step 5:
 
-Publish the website in the given URL'yogabharathi3.student.saveetha.in'
+Publish the website in the given URL'dharshan.student.saveetha.in'
 
 ### Step 6:
 
